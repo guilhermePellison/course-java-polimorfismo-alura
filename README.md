@@ -1,2 +1,2 @@
 # course-java-polimorfismo-alura
-Java Polimorfismo - entenda herança e interfaces
+Java Polimorfismo - herança e interfaces
